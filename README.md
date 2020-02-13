@@ -1,3 +1,3 @@
-# Learning Hadoop Quickly
+# Hadoop快速入门教程
 
-This repository aims to provide a short tutorial for people who wants to learn hadoop in a reasonable short time.
+快速入门Hadoop。

@@ -1,2 +1,3 @@
-# hadoop_quick_tutorial
-Learning Hadoop Quickly
+# Learning Hadoop Quickly
+
+This repository aims to provide a short tutorial for people who wants to learn hadoop in a reasonable short time.
